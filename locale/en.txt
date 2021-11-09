@@ -1,0 +1,27 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Synex Virtual Tour
+
+## Media
+
+### Title
+panorama_EE1162D8_FF85_0DD4_41C7_10560F53CFD8.label = 02A3 ROG
+panorama_F013EB1B_FF8B_1C54_41D6_2DCDE36E491F.label = 02A2 MSI
+panorama_F1023FB1_FF8D_1454_41EB_9A5A576D9B7A.label = 02A1 AOC
+panorama_F35FB4EB_FFBF_15F4_41EE_17E6899D5EE5.label = 02A Left
+panorama_F57C3A58_FFBB_1CD4_41D4_2A68999366B4.label = 01 Entrance
+
+## Hotspot
+
+### URL
+overlay_1344C06B_0785_0CF4_4163_AE325394F836.url = //www.youtube.com/embed/ew3lh7_DAeU?v=ew3lh7_DAeU
+
+## Action
+
+### URL
+LinkBehaviour_138C0AD0_0787_1DD4_416A_FBB5972DE140.source = //www.youtube.com/embed/ew3lh7_DAeU?v=ew3lh7_DAeU
